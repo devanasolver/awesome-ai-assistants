@@ -1,0 +1,466 @@
+[
+  {
+    "repo": "crewAIInc/crewAI",
+    "category": "agent",
+    "description": "Framework for orchestrating role-playing AI agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "category": "agent",
+    "description": "Multi-agent framework that plays software company roles.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-01-21"
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "category": "agent",
+    "description": "Small library for agents that write code to act.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "category": "agent",
+    "description": "Framework for building applications with language models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "category": "agent",
+    "description": "Library for building stateful, multi-step agents as graphs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langgenius/dify",
+    "category": "agent",
+    "description": "Platform for building LLM apps with workflows and RAG.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "category": "agent",
+    "description": "Framework for building multi-agent AI applications.",
+    "license": "CC-BY-4.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "category": "agent",
+    "description": "Lightweight Python framework for multi-agent workflows.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "category": "agent",
+    "description": "Platform for AI software development agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "category": "agent",
+    "description": "Agent framework from the Pydantic team with typed outputs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "category": "agent",
+    "description": "Data framework for connecting language models to your data.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "category": "browser",
+    "description": "Make websites accessible for AI agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "bytedance/UI-TARS-desktop",
+    "category": "browser",
+    "description": "Desktop app and agent stack for controlling a computer with a vision model.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "microsoft/OmniParser",
+    "category": "browser",
+    "description": "Screen parsing tool for GUI agents.",
+    "license": "CC-BY-4.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-20"
+  },
+  {
+    "repo": "simular-ai/Agent-S",
+    "category": "browser",
+    "description": "Open agentic framework that uses computers like a human.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "category": "browser",
+    "description": "Automate browser workflows with LLMs and computer vision.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "janhq/jan",
+    "category": "chat",
+    "description": "Offline ChatGPT alternative that runs on your computer.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "LibreChat-AI/LibreChat",
+    "category": "chat",
+    "description": "Self-hosted chat app that works with many AI providers.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lobehub/lobehub",
+    "category": "chat",
+    "description": "Modern chat framework with plugins and multiple providers.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Mintplex-Labs/anything-llm",
+    "category": "chat",
+    "description": "All-in-one app to chat with documents using any model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "oobabooga/textgen",
+    "category": "chat",
+    "description": "Web UI for running large language models locally.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-17"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "category": "chat",
+    "description": "Self-hosted web interface for local and hosted language models.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Arize-ai/phoenix",
+    "category": "eval",
+    "description": "AI observability and evaluation. Source-available license.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "confident-ai/deepeval",
+    "category": "eval",
+    "description": "Evaluation framework for LLM apps.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "langfuse/langfuse",
+    "category": "eval",
+    "description": "Open-source LLM engineering platform with tracing and evals.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "promptfoo/promptfoo",
+    "category": "eval",
+    "description": "Test prompts, agents and RAG, and red-team models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "vibrantlabsai/ragas",
+    "category": "eval",
+    "description": "Toolkit to evaluate RAG pipelines.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-02-24"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "category": "local",
+    "description": "LLM inference in C and C++ on many kinds of hardware.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lm-sys/FastChat",
+    "category": "local",
+    "description": "Platform for training, serving and evaluating chat models.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-01"
+  },
+  {
+    "repo": "LostRuins/koboldcpp",
+    "category": "local",
+    "description": "Single-file way to run GGUF models locally.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mlc-ai/mlc-llm",
+    "category": "local",
+    "description": "Run language models on phones, browsers and laptops.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "category": "local",
+    "description": "Self-hosted OpenAI-compatible API for local models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ollama/ollama",
+    "category": "local",
+    "description": "Run large language models locally.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "vllm-project/vllm",
+    "category": "local",
+    "description": "Fast and easy-to-use library for LLM inference and serving.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "github/github-mcp-server",
+    "category": "mcp",
+    "description": "GitHub's official MCP server.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "microsoft/playwright-mcp",
+    "category": "mcp",
+    "description": "MCP server that lets assistants drive a browser with Playwright.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "modelcontextprotocol/python-sdk",
+    "category": "mcp",
+    "description": "Official Python SDK for the Model Context Protocol.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "category": "mcp",
+    "description": "Reference collection of Model Context Protocol servers.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "modelcontextprotocol/typescript-sdk",
+    "category": "mcp",
+    "description": "Official TypeScript SDK for the Model Context Protocol.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "category": "mcp",
+    "description": "Fast, Pythonic way to build MCP servers and clients.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "home-assistant/core",
+    "category": "personal",
+    "description": "Open-source home automation that puts local control first.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "category": "personal",
+    "description": "Self-hostable AI second brain that searches your notes and the web.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-02"
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "category": "personal",
+    "description": "Memory layer for AI assistants and agents.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openinterpreter/openinterpreter",
+    "category": "personal",
+    "description": "Natural language interface that runs code on your computer.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "category": "personal",
+    "description": "Platform for building and running AI agents that automate work.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "category": "rag",
+    "description": "Open-source database for embeddings and retrieval.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "HKUDS/LightRAG",
+    "category": "rag",
+    "description": "Simple and fast retrieval-augmented generation.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "category": "rag",
+    "description": "RAG engine focused on deep document understanding.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "letta-ai/letta",
+    "category": "rag",
+    "description": "Framework for agents with long-term memory, formerly MemGPT.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-10"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "category": "rag",
+    "description": "Cloud-native vector database for similarity search.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "category": "rag",
+    "description": "Vector similarity search for Postgres.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "category": "rag",
+    "description": "Vector database and search engine written in Rust.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "category": "rag",
+    "description": "Open-source vector database.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "ggml-org/whisper.cpp",
+    "category": "voice",
+    "description": "Port of Whisper in C and C++ for fast local transcription.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "OHF-Voice/wyoming",
+    "category": "voice",
+    "description": "Peer-to-peer protocol for voice assistants, used by Home Assistant.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-29"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "voice",
+    "description": "General-purpose speech recognition model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "OpenVoiceOS/ovos-core",
+    "category": "voice",
+    "description": "Community-driven open voice assistant platform.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "SYSTRAN/faster-whisper",
+    "category": "voice",
+    "description": "Faster Whisper transcription using CTranslate2.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  }
+]

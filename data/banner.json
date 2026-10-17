@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "AGENT",
+  "PROMPT",
+  "MEMORY",
+  "RAG",
+  "TOOLS",
+  "VOICE",
+  "CONTEXT",
+  "MCP",
+  "LLM",
+  "EMBED",
+  "CHAT",
+  "PLAN",
+  "LOCAL",
+  "GGUF",
+  "SKILLS",
+  "WORKFLOW"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "AI",
+  "Assistants"
+ ],
+ "title_size": 88,
+ "sub1": "ASSISTANTS  |  AGENTS  |  VOICE",
+ "sub2": "MEMORY  |  RAG  |  LOCAL MODELS",
+ "foot": "Open-source AI assistant software, each checked for license and activity"
+}
