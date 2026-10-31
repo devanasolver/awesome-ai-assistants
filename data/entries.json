@@ -462,5 +462,13 @@
     "license": "MIT",
     "verified": "2026-10-18",
     "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "modelflare-ai/AnyModelBot",
+    "category": "personal",
+    "description": "Desktop and Docker app that runs your own AI bots on your computer, with WeChat and Feishu channels, file access, commands and computer use. Models need a paid-per-use Modelflare key, and the UI is Simplified Chinese only (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-01",
+    "last_commit": "2026-10-31"
   }
 ]
