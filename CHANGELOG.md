@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add modelflare-ai/AnyModelBot (personal assistants).
+
 ## 2026-10-18
 
 - First version: 58 verified repos in 9 categories.
